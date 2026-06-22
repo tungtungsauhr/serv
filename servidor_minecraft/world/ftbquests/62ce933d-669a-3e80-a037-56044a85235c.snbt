@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "62ce933d669a3e80a03756044a85235c"
+	name: "emilaviv#62ce933d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

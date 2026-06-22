@@ -1,0 +1,12 @@
+[20:02:25] [INIT] KubeJS 2001.6.5-build.26; MC 2001 forge
+[20:02:25] [INIT] Loaded plugins:
+[20:02:25] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[20:02:25] [INIT] - io.github.mortuusars.exposure.forge.integration.kubejs.ExposureKubeJSPlugin
+[20:02:25] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[20:02:25] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[20:02:25] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[20:02:25] [INIT] - com.sunekaer.sdrp.integration.kubejs.SDRPKubeJSIntegration
+[20:02:25] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
+[20:02:26] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[20:02:26] [INFO] Loaded script startup_scripts:example.js in 0.047 s
+[20:02:26] [INFO] Loaded 1/1 KubeJS startup scripts in 0.49 s with 0 errors and 0 warnings

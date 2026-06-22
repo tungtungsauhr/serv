@@ -1,0 +1,112 @@
+[22Jun2026 00:00:59.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilaviv lost connection: Disconnected
+[22Jun2026 00:00:59.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilaviv left the game
+[22Jun2026 00:00:59.781] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 62ce933d-669a-3e80-a037-56044a85235c
+[22Jun2026 00:00:59.782] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilaviv
+[22Jun2026 00:07:33.252] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emilaviv[/10.166.13.241:49724] logged in with entity id 144277 at (292.16882595377183, 138.0, -907.6999999880791)
+[22Jun2026 00:07:33.260] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player emilaviv
+[22Jun2026 00:07:33.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilaviv joined the game
+[22Jun2026 00:07:33.333] [Server thread/INFO] [Jade/]: Syncing config to emilaviv (62ce933d-669a-3e80-a037-56044a85235c)
+[22Jun2026 00:07:33.333] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 62ce933d-669a-3e80-a037-56044a85235c
+[22Jun2026 00:07:33.808] [Server thread/INFO] [pingwheel/]: Channel update: emilaviv -> default
+[22Jun2026 00:07:33.808] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emilaviv (20)
+[22Jun2026 00:07:33.808] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emilaviv
+[22Jun2026 00:07:33.855] [Server thread/INFO] [de.keksuccino.fancymenu.networking.packets.handshake.ServerSideHandshakePacketLogic/]: [FANCYMENU] A client with FancyMenu installed joined the server: emilaviv
+[22Jun2026 00:07:35.032] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 62ce933d-669a-3e80-a037-56044a85235c
+[22Jun2026 00:07:36.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 62ce933d-669a-3e80-a037-56044a85235c
+[22Jun2026 00:07:36.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player emilaviv (62ce933d-669a-3e80-a037-56044a85235c) successfully connected to voice chat
+[22Jun2026 00:09:23.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wlax hit the ground too hard whilst trying to escape Ghast
+[22Jun2026 00:10:00.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilaviv> emilaviv
+[22Jun2026 00:14:53.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilaviv fell from a high place
+[22Jun2026 00:15:00.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilaviv fell from a high place
+[22Jun2026 00:16:17.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wlax was slain by emilaviv
+[22Jun2026 00:18:41.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wlax> aoobaoo aoo
+[22Jun2026 00:18:43.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wlax> love you hon
+[22Jun2026 00:20:31.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wlax was slain by Controlled Baby Skeleton
+[22Jun2026 00:24:28.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilaviv has reached the goal [Senior Summoner]
+[22Jun2026 00:32:36.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilaviv has made the advancement [Bonk!]
+[22Jun2026 00:32:54.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wlax has made the advancement [Bonk!]
+[22Jun2026 00:38:56.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wlax has reached the goal [Troubled Boy]
+[22Jun2026 00:52:25.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wlax was slain by emilaviv
+[22Jun2026 00:56:07.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emilaviv: Gave 23 [Bottle o' Enchanting] to emilaviv]
+[22Jun2026 00:57:34.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emilaviv: Gave 45 [Bottle o' Enchanting] to emilaviv]
+[22Jun2026 01:03:43.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wlax was doomed to fall
+[22Jun2026 01:10:25.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wlax fell from a high place
+[22Jun2026 01:20:00.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wlax was slain by Man From The Fog
+[22Jun2026 01:23:12.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emilaviv: Killed Spider Moth]
+[22Jun2026 01:23:18.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wlax has reached the goal [Destroyer of Darkness]
+[22Jun2026 01:24:02.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilaviv has reached the goal [Destroyer of Darkness]
+[22Jun2026 01:44:48.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilaviv lost connection: Disconnected
+[22Jun2026 01:44:48.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilaviv left the game
+[22Jun2026 01:44:48.082] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 62ce933d-669a-3e80-a037-56044a85235c
+[22Jun2026 01:44:48.082] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilaviv
+[22Jun2026 01:45:17.980] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41c74ecd[id=<null>,name=Anubis_11,properties={},legacy=false] (/10.166.13.177:56328) lost connection: Disconnected
+[22Jun2026 01:45:22.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anubis_11[/10.166.13.177:56379] logged in with entity id 165764 at (284.73667107376446, 138.0, -903.8713227471986)
+[22Jun2026 01:45:22.817] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Anubis_11
+[22Jun2026 01:45:22.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 joined the game
+[22Jun2026 01:45:22.868] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[22Jun2026 01:45:22.871] [Server thread/INFO] [Jade/]: Syncing config to Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f)
+[22Jun2026 01:45:24.134] [Server thread/INFO] [pingwheel/]: Channel update: Anubis_11 -> default
+[22Jun2026 01:45:24.137] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anubis_11 (20)
+[22Jun2026 01:45:24.138] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anubis_11
+[22Jun2026 01:45:24.404] [Server thread/INFO] [de.keksuccino.fancymenu.networking.packets.handshake.ServerSideHandshakePacketLogic/]: [FANCYMENU] A client with FancyMenu installed joined the server: Anubis_11
+[22Jun2026 01:45:24.407] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[22Jun2026 01:45:25.418] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[22Jun2026 01:45:25.419] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f) successfully connected to voice chat
+[22Jun2026 01:55:34.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 was kicked for floating too long!
+[22Jun2026 01:55:34.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Flying is not enabled on this server
+[22Jun2026 01:55:34.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[22Jun2026 01:55:34.234] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[22Jun2026 01:55:34.234] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
+[22Jun2026 01:55:39.257] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anubis_11[/10.166.13.177:57609] logged in with entity id 167406 at (286.17656130626875, 113.04157281948534, -876.5919376969756)
+[22Jun2026 01:55:39.263] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Anubis_11
+[22Jun2026 01:55:39.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 joined the game
+[22Jun2026 01:55:39.310] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[22Jun2026 01:55:39.312] [Server thread/INFO] [Jade/]: Syncing config to Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f)
+[22Jun2026 01:55:40.653] [Server thread/INFO] [pingwheel/]: Channel update: Anubis_11 -> default
+[22Jun2026 01:55:40.654] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anubis_11 (20)
+[22Jun2026 01:55:40.655] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anubis_11
+[22Jun2026 01:55:40.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[22Jun2026 01:55:40.886] [Server thread/INFO] [de.keksuccino.fancymenu.networking.packets.handshake.ServerSideHandshakePacketLogic/]: [FANCYMENU] A client with FancyMenu installed joined the server: Anubis_11
+[22Jun2026 01:55:41.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[22Jun2026 01:55:41.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f) successfully connected to voice chat
+[22Jun2026 01:58:05.330] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
+[22Jun2026 01:58:05.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[22Jun2026 01:58:05.331] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[22Jun2026 01:58:05.331] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
+[22Jun2026 01:58:07.681] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wlax lost connection: Disconnected
+[22Jun2026 01:58:07.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wlax left the game
+[22Jun2026 01:58:07.681] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 00ba8713-481a-351c-a368-bad0c9d19f03
+[22Jun2026 01:58:07.682] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Wlax
+[22Jun2026 01:58:37.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Jun2026 01:58:37.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Jun2026 01:58:37.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Jun2026 01:58:37.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Jun2026 01:58:37.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/arphex:the_webrooms
+[22Jun2026 01:58:37.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Jun2026 01:58:37.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/arphex:the_crawling
+[22Jun2026 01:58:37.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_obsessed:obsessed_lair
+[22Jun2026 01:58:37.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Jun2026 01:58:37.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[22Jun2026 01:58:37.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Jun2026 01:58:37.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_webrooms): All chunks are saved
+[22Jun2026 01:58:37.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Jun2026 01:58:37.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_crawling): All chunks are saved
+[22Jun2026 01:58:37.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (obsessed_lair): All chunks are saved
+[22Jun2026 01:58:37.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Jun2026 01:58:37.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[22Jun2026 01:58:37.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Jun2026 01:58:37.745] [Server thread/WARN] [net.arphex.ArphexMod/]: [WORLD UNLOAD] Dimension: minecraft:overworld
+[22Jun2026 01:58:37.794] [Server thread/WARN] [net.arphex.ArphexMod/]: [WORLD UNLOAD] Dimension: arphex:the_webrooms
+[22Jun2026 01:58:37.794] [Server thread/WARN] [net.arphex.ArphexMod/]: [WORLD UNLOAD] Dimension: minecraft:the_nether
+[22Jun2026 01:58:37.795] [Server thread/WARN] [net.arphex.ArphexMod/]: [WORLD UNLOAD] Dimension: arphex:the_crawling
+[22Jun2026 01:58:37.795] [Server thread/WARN] [net.arphex.ArphexMod/]: [WORLD UNLOAD] Dimension: the_obsessed:obsessed_lair
+[22Jun2026 01:58:37.795] [Server thread/WARN] [net.arphex.ArphexMod/]: [WORLD UNLOAD] Dimension: minecraft:the_end
+[22Jun2026 01:58:37.796] [Server thread/WARN] [net.arphex.ArphexMod/]: [WORLD UNLOAD] Dimension: graveyard:past
+[22Jun2026 01:58:37.801] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22Jun2026 01:58:37.801] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.backpack.toml
+[22Jun2026 01:58:37.802] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[22Jun2026 01:58:37.802] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[22Jun2026 01:58:37.802] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.augments.toml
+[22Jun2026 01:58:37.802] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[22Jun2026 01:58:37.803] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[22Jun2026 01:58:37.803] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!

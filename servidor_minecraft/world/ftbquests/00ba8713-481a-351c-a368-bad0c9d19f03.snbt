@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "00ba8713481a351ca368bad0c9d19f03"
+	name: "Wlax#00ba8713"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}
